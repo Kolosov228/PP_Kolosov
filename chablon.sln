@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chablon", "chablon\chablon.csproj", "{D27E194B-CC0C-4AFE-A0C0-D31317C89C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\..\..\source\repos\UnitTestProject1\UnitTestProject1.csproj", "{D74AAE08-7BD2-455A-9D39-682D66A04D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27E194B-CC0C-4AFE-A0C0-D31317C89C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27E194B-CC0C-4AFE-A0C0-D31317C89C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27E194B-CC0C-4AFE-A0C0-D31317C89C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27E194B-CC0C-4AFE-A0C0-D31317C89C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74AAE08-7BD2-455A-9D39-682D66A04D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74AAE08-7BD2-455A-9D39-682D66A04D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74AAE08-7BD2-455A-9D39-682D66A04D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74AAE08-7BD2-455A-9D39-682D66A04D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC7DB32-821B-4D9D-8AEB-7405BFF87010}
+	EndGlobalSection
+EndGlobal
